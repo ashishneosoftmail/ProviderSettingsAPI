@@ -67,3 +67,9 @@ C:\Projects\Client\Mobibox\Mobibox.ProviderSettings\Mobibox.ProviderSettings.API
 C:\Projects\Client\Mobibox\Mobibox.ProviderSettings\Mobibox.ProviderSettings.API\obj\Debug\net6.0\Mobibox.ProviderSettings.API.pdb
 C:\Projects\Client\Mobibox\Mobibox.ProviderSettings\Mobibox.ProviderSettings.API\obj\Debug\net6.0\Mobibox.ProviderSettings.API.genruntimeconfig.cache
 C:\Projects\Client\Mobibox\Mobibox.ProviderSettings\Mobibox.ProviderSettings.API\obj\Debug\net6.0\ref\Mobibox.ProviderSettings.API.dll
+D:\Ashish_Old\Ashish\Clients\Mobibox\Mobibox.ProviderSettings\Mobibox.ProviderSettings.API\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Ashish_Old\Ashish\Clients\Mobibox\Mobibox.ProviderSettings\Mobibox.ProviderSettings.API\bin\Debug\net6.0\AWSSDK.DynamoDBv2.dll
+D:\Ashish_Old\Ashish\Clients\Mobibox\Mobibox.ProviderSettings\Mobibox.ProviderSettings.API\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+D:\Ashish_Old\Ashish\Clients\Mobibox\Mobibox.ProviderSettings\Mobibox.ProviderSettings.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Ashish_Old\Ashish\Clients\Mobibox\Mobibox.ProviderSettings\Mobibox.ProviderSettings.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Ashish_Old\Ashish\Clients\Mobibox\Mobibox.ProviderSettings\Mobibox.ProviderSettings.API\obj\Debug\net6.0\Mobibox.ProviderSettings.API.sourcelink.json

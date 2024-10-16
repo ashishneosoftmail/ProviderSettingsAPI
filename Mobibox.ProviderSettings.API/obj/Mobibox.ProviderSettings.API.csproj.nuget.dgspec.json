@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Client\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj": {}
+    "D:\\Ashish_Old\\Ashish\\Clients\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Client\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj": {
+    "D:\\Ashish_Old\\Ashish\\Clients\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Client\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj",
+        "projectUniqueName": "D:\\Ashish_Old\\Ashish\\Clients\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj",
         "projectName": "Mobibox.ProviderSettings.API",
-        "projectPath": "C:\\Projects\\Client\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Client\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\obj\\",
+        "projectPath": "D:\\Ashish_Old\\Ashish\\Clients\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj",
+        "packagesPath": "C:\\Users\\ashish.verma\\.nuget\\packages\\",
+        "outputPath": "D:\\Ashish_Old\\Ashish\\Clients\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ashish.verma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -1,16 +1,6 @@
 [
   {
     "ContainingType": "Mobibox.ProviderSettings.API.Controllers.ProviderController",
-    "Method": "GetAllProvider",
-    "RelativePath": "api/Provider",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Mobibox.ProviderSettings.API.Controllers.ProviderController",
     "Method": "SaveProvider",
     "RelativePath": "api/Provider",
     "HttpMethod": "POST",
@@ -23,6 +13,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mobibox.ProviderSettings.API.Controllers.ProviderController",
+    "Method": "GetAllProvider",
+    "RelativePath": "api/Provider",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

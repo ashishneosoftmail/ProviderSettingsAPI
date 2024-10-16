@@ -9,70 +9,78 @@ namespace Mobibox.ProviderSettings.API.Model
     [DynamoDBTable("MobiboxConfigurations")]
     public class Provider
     {
-        //Partition Key(PK)
+        [JsonPropertyName("PK")]
         [DynamoDBHashKey]
-        public string? PK { get; set; }  // Example: "PROVIDER#<ProviderID>"
+        public string? PK { get; set; }
 
-        //Sort Key(SK) - Optional, useful for secondary sorting
+        [JsonPropertyName("SK")]
         [DynamoDBRangeKey]
-        public string? SK { get; set; }  // Example: "METADATA#<Timestamp>"
+        public string? SK { get; set; }
+
+        [JsonPropertyName("ID")]
         public string? ID { get; set; }
 
-        public string? Status { get; set; }
+        [JsonPropertyName("Status")]
+        public int? Status { get; set; }
 
-        public string? IDService { get; set; }
+        [JsonPropertyName("IDService")]
+        public int? IDService { get; set; }
 
-        public string? IDClient { get; set; }
+        [JsonPropertyName("IDClient")]
+        public int? IDClient { get; set; }
 
-        public string? IDCountry { get; set; }
+        [JsonPropertyName("IDCountry")]
+        public int? IDCountry { get; set; }
 
-        public string? IDOperator { get; set; }
+        [JsonPropertyName("IDOperator")]
+        public int? IDOperator { get; set; }
 
-        public string? IDProvider { get; set; }
+        [JsonPropertyName("IDProvider")]
+        public int? IDProvider { get; set; }
 
-       
-        //public string? inputValue { get; set; }
-
+        [JsonPropertyName("RegDate")]
         public DateTime? RegDate { get; set; }
 
+        [JsonPropertyName("UpdateDate")]
         public DateTime? UpdateDate { get; set; }
 
+        [JsonPropertyName("RequestSettings")]
         public RequestSettings? RequestSettings { get; set; }
 
+        [JsonPropertyName("ResponseSettings")]
         public ResponseSettings? ResponseSettings { get; set; }        
 
     }
 
     public class RequestSettings
     {
+        [JsonPropertyName("BasicURL")]
         public string? BasicURL { get; set; }
 
         [JsonPropertyName("DataType")]
         public string? DataType { get; set; }
+
+        [JsonPropertyName("Action")]
         public string? Action { get; set; }
-        public List<Attributes>? Attributes { get; set; }
+
+        [JsonPropertyName("Parameters")]
+        public List<Parameters>? Parameters { get; set; }
+
+        [JsonPropertyName("Headers")]
         public List<Headers>? Headers { get; set; }
     }
 
-    public class Attributes
+    public class Parameters
     {
-        //public string AttributevalueType { get; set; }
-        //public string attributestaticValue { get; set; }
-        //public bool? boolValue { get; set; }
-        //public string datatype { get; set; }
 
-        //public string dynamicstaticValue { get; set; }
-        //public string paramKey { get; set; }
-        //public string selectedType { get; set; }
-
-        [JsonPropertyName("ParameterName")]
-        public string? ParameterName { get; set; }
+        [JsonPropertyName("Name")]
+        public string? Name { get; set; }
 
         [JsonPropertyName("Type")]
-        public string? DataType { get; set; }
+        public string? Type { get; set; }
 
         [JsonPropertyName("Value")]
-        public string? AttributeValueType { get; set; }
+        public string? Value { get; set; }
     }
     public class Headers
     {
@@ -88,7 +96,4 @@ namespace Mobibox.ProviderSettings.API.Model
         [JsonPropertyName("DataType")]
         public string? ResponseType { get; set; }
     }
-
-
-
 }

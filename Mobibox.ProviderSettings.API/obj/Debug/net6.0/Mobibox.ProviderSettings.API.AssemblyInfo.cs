@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mobibox.ProviderSettings.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e94424d829d3cb5533eca5ab11e796c6575d425")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d4a26a76b087dd5cbaf2a50a97ce8f9fb3fafd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mobibox.ProviderSettings.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mobibox.ProviderSettings.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

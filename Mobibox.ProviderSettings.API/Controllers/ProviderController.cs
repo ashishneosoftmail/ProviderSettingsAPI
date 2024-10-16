@@ -29,8 +29,7 @@ namespace Mobibox.ProviderSettings.API.Controllers
         public async Task<ActionResult> SaveProvider([FromBody] Provider objProvider)
         {
             
-            // Provider objProvider = JsonConvert.DeserializeObject<Provider>(objProvider);
-            
+            // Provider objProvider = JsonConvert.DeserializeObject<Provider>(objProvider);            
             try
             {
                 // Insert data into DynamoDB

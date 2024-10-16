@@ -28,6 +28,8 @@
 .vs/
 .vs/Mobibox.ProviderSettings/DesignTimeBuild
 .vs/Mobibox.ProviderSettings/v17
+*.vs/Mobibox.ProviderSettings/v17
+*.github
 
 
 # MSTest test Results

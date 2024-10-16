@@ -22,6 +22,8 @@
 *bld/
 *[Bb]in/
 *[Oo]bj/
+*[Bb]in/
+*obj/
 
 # Visual Studio 2019 cache/options directory
 # Visual Studio 2022 cache/options directory
@@ -30,6 +32,7 @@
 .vs/Mobibox.ProviderSettings/v17
 *.vs/Mobibox.ProviderSettings/v17
 *.github
+
 
 
 # MSTest test Results
@@ -74,6 +77,8 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
+*.vs
+
 
 # Visual C++ cache files
 ipch/

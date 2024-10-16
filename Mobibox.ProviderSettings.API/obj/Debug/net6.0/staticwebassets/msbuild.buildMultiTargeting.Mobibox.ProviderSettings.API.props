@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mobibox.ProviderSettings.API.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pbgil6zPUmv3ItP7ViwZ3a2pWgBefFHJ1WsxU1Q1QcU=",
+  "Source": "Mobibox.ProviderSettings.API",
+  "BasePath": "_content/Mobibox.ProviderSettings.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

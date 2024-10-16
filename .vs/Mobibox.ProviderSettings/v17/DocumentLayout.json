@@ -31,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|solutionrelative:mobibox.providersettings.api\\repository\\iproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|d:\\ashish_old\\ashish\\clients\\mobibox\\mobibox.providersettings\\mobibox.providersettings.api\\controllers\\provider1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|solutionrelative:mobibox.providersettings.api\\controllers\\provider1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|d:\\ashish_old\\ashish\\clients\\mobibox\\mobibox.providersettings\\mobibox.providersettings.api\\mobibox.providersettings.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|solutionrelative:mobibox.providersettings.api\\mobibox.providersettings.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -144,18 +140,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Provider1Controller.cs",
-              "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\Clients\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Controllers\\Provider1Controller.cs",
-              "RelativeDocumentMoniker": "Mobibox.ProviderSettings.API\\Controllers\\Provider1Controller.cs",
-              "ToolTip": "D:\\Ashish_Old\\Ashish\\Clients\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Controllers\\Provider1Controller.cs",
-              "RelativeToolTip": "Mobibox.ProviderSettings.API\\Controllers\\Provider1Controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:21:08.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Mobibox.ProviderSettings.API.csproj",
               "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\Clients\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj",
               "RelativeDocumentMoniker": "Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj",
@@ -167,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Ashish_Old\\Ashish\\Clients\\Mobibox\\Mobibox.ProviderSettings\\Mobibox.ProviderSettings.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Mobibox.ProviderSettings.API\\Properties\\launchSettings.json",

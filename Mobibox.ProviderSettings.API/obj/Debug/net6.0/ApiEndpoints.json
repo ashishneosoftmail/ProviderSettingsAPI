@@ -17,12 +17,34 @@
   },
   {
     "ContainingType": "Mobibox.ProviderSettings.API.Controllers.ProviderController",
-    "Method": "GetAllProvider",
+    "Method": "GetDetailsBySKId",
     "RelativePath": "api/Provider",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "skId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mobibox.ProviderSettings.API.Controllers.ProviderController",
+    "Method": "GetProviderDetailsById",
+    "RelativePath": "api/Provider/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

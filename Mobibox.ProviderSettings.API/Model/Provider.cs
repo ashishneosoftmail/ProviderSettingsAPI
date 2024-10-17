@@ -1,6 +1,7 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 using System.Reflection.PortableExecutable;
 using System.Text.Json.Serialization;
+using Amazon.DynamoDBv2.DataModel;
 
 
 
@@ -15,6 +16,7 @@ namespace Mobibox.ProviderSettings.API.Model
 
         [JsonPropertyName("SK")]
         [DynamoDBRangeKey]
+
         public string? SK { get; set; }
 
         [JsonPropertyName("ID")]

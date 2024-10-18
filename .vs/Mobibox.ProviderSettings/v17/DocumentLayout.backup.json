@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|solutionrelative:mobibox.providersettings.api\\controllers\\providercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|c:\\projects\\client\\mobibox\\providersettingsapi\\mobibox.providersettings.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|solutionrelative:mobibox.providersettings.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|c:\\projects\\client\\mobibox\\providersettingsapi\\mobibox.providersettings.api\\model\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|solutionrelative:mobibox.providersettings.api\\model\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|c:\\projects\\client\\mobibox\\providersettingsapi\\mobibox.providersettings.api\\model\\awssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|solutionrelative:mobibox.providersettings.api\\model\\awssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|c:\\projects\\client\\mobibox\\providersettingsapi\\mobibox.providersettings.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|solutionrelative:mobibox.providersettings.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|c:\\projects\\client\\mobibox\\providersettingsapi\\mobibox.providersettings.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|solutionrelative:mobibox.providersettings.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|c:\\projects\\client\\mobibox\\providersettingsapi\\mobibox.providersettings.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|solutionrelative:mobibox.providersettings.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|c:\\projects\\client\\mobibox\\providersettingsapi\\mobibox.providersettings.api\\model\\awssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51F85996-D3FA-423E-9C9B-415A83C54912}|Mobibox.ProviderSettings.API\\Mobibox.ProviderSettings.API.csproj|solutionrelative:mobibox.providersettings.api\\model\\awssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Projects\\Client\\Mobibox\\ProviderSettingsAPI\\Mobibox.ProviderSettings.API\\Model\\Provider.cs",
+              "RelativeDocumentMoniker": "Mobibox.ProviderSettings.API\\Model\\Provider.cs",
+              "ToolTip": "C:\\Projects\\Client\\Mobibox\\ProviderSettingsAPI\\Mobibox.ProviderSettings.API\\Model\\Provider.cs",
+              "RelativeToolTip": "Mobibox.ProviderSettings.API\\Model\\Provider.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:10:59.93Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +57,14 @@
               "RelativeDocumentMoniker": "Mobibox.ProviderSettings.API\\Controllers\\ProviderController.cs",
               "ToolTip": "C:\\Projects\\Client\\Mobibox\\ProviderSettingsAPI\\Mobibox.ProviderSettings.API\\Controllers\\ProviderController.cs",
               "RelativeToolTip": "Mobibox.ProviderSettings.API\\Controllers\\ProviderController.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAHgAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T08:01:55.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Projects\\Client\\Mobibox\\ProviderSettingsAPI\\Mobibox.ProviderSettings.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Mobibox.ProviderSettings.API\\appsettings.Development.json",
@@ -60,19 +77,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AwsSettings.cs",
               "DocumentMoniker": "C:\\Projects\\Client\\Mobibox\\ProviderSettingsAPI\\Mobibox.ProviderSettings.API\\Model\\AwsSettings.cs",
               "RelativeDocumentMoniker": "Mobibox.ProviderSettings.API\\Model\\AwsSettings.cs",
               "ToolTip": "C:\\Projects\\Client\\Mobibox\\ProviderSettingsAPI\\Mobibox.ProviderSettings.API\\Model\\AwsSettings.cs",
               "RelativeToolTip": "Mobibox.ProviderSettings.API\\Model\\AwsSettings.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T06:34:44.341Z"
+              "WhenOpened": "2024-10-17T06:34:44.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projects\\Client\\Mobibox\\ProviderSettingsAPI\\Mobibox.ProviderSettings.API\\appsettings.json",
               "RelativeDocumentMoniker": "Mobibox.ProviderSettings.API\\appsettings.json",
@@ -85,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Client\\Mobibox\\ProviderSettingsAPI\\Mobibox.ProviderSettings.API\\Program.cs",
               "RelativeDocumentMoniker": "Mobibox.ProviderSettings.API\\Program.cs",

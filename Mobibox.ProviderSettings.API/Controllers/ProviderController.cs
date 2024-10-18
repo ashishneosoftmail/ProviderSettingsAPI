@@ -70,8 +70,8 @@ namespace Mobibox.ProviderSettings.API.Controllers
         /// </summary>
         /// <param name="Id"></param>
         /// <returns></returns>
-        [HttpGet("{id}")]
-        public async Task<object> GetProviderDetailsById(int id)
+        [HttpGet("{providerId}")]
+        public async Task<object> GetProviderDetailsById(int providerId)
         {
             AccessKey = _configuration.GetSection("AWS:AccessKey").Value;
             SecretKey = _configuration.GetSection("AWS:SecretKey").Value;
@@ -81,7 +81,7 @@ namespace Mobibox.ProviderSettings.API.Controllers
                 var client = new AmazonDynamoDBClient(AccessKey, SecretKey, RegionEndpoint.EUCentral1);
                 DynamoDBContext context = new DynamoDBContext(client);
                 string pk = "ProviderSettings";
-                string sk = "ProviderSettings#" + id + "#";
+                string sk = "ProviderSettings#" + providerId + "#";
                 var values = new List<object> { sk };
                 var objProvider = await context.QueryAsync<Provider>(pk, QueryOperator.BeginsWith, values).GetRemainingAsync();
 

@@ -138,4 +138,4 @@ ClientBin/
 *.dbmdl
 *.dbproj.schemaview
 *.pfx
-*.appsettings.json
+appsettings.json

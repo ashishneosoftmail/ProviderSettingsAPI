@@ -96,6 +96,6 @@ namespace Mobibox.ProviderSettings.API.Model
     public class ResponseSettings
     {
         [JsonPropertyName("DataType")]
-        public string? ResponseType { get; set; }
+        public string? DataType { get; set; }
     }
 }
